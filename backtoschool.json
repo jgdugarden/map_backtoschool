@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"."
+         "target":"..\/Documents\/Woradventure"
         }
     },
  "height":25,
@@ -72,7 +72,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/..\/Downloads\/maps\/Floor0\/tilesets_deviant_milkian_1.png",
+         "image":"maps\/Floor0\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -797,7 +797,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/..\/Downloads\/maps\/Floor0\/floortileset.png",
+         "image":"maps\/Floor0\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -820,7 +820,7 @@
         {
          "columns":8,
          "firstgid":321,
-         "image":"..\/..\/Downloads\/rpg_maker_tiles_by_ayene_chan_d48exyx.png",
+         "image":"rpg_maker_tiles_by_ayene_chan_d48exyx.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
@@ -834,7 +834,7 @@
         {
          "columns":16,
          "firstgid":369,
-         "image":"..\/..\/Downloads\/tilesets_modern___mack_by_milkian_dbz1aoz.png",
+         "image":"tilesets_modern___mack_by_milkian_dbz1aoz.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -848,7 +848,7 @@
         {
          "columns":8,
          "firstgid":625,
-         "image":"..\/..\/Downloads\/Pipoya RPG Tileset 32x32\/[Base]BaseChip_pipo.png",
+         "image":"Pipoya RPG Tileset 32x32\/[Base]BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -917,7 +917,7 @@
         {
          "columns":5,
          "firstgid":1689,
-         "image":"..\/..\/Downloads\/Custom Preset.png",
+         "image":"Custom Preset.png",
          "imageheight":32,
          "imagewidth":160,
          "margin":0,
